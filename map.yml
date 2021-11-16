@@ -1,0 +1,4 @@
+map_name: TD-Kings Hill
+games:
+- {game_name: TD-Kings Hill, file_name: TD-Kings Hill.xml}
+version: 0
